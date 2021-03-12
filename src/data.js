@@ -749,7 +749,9 @@ export default [
         },
         {
           fields: {
-            file: {url: room4}
+            file: {
+              url: room4
+            }
           }
         }
       ]
