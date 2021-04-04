@@ -4,7 +4,7 @@ import Title from "./Title";
 
 export default class Services extends Component {
     state={
-        Services:[
+        services:[
             {
                 icon:<FaCocktail/>,
                 title:"Free Cocktails",
